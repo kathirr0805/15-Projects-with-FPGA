@@ -31,7 +31,6 @@ Below is the list of 15 FPGA projects included in this collection:
 ## Access Project Files
 All project files, including source code, Vivado project files, simulation scripts, and documentation, are available on Google Drive: https://drive.google.com/drive/folders/12aOOJCHkLiPda5yPwKt0yN_HOv58rfwm?usp=drive_link
 
-[**Access FPGA Projects on Google Drive**]([https://drive.google.com/your-folder-link-here](https://drive.google.com/drive/folders/12aOOJCHkLiPda5yPwKt0yN_HOv58rfwm?usp=drive_link))
 
 **Instructions to Access**:
 1. Click the link above to open the Google Drive folder.
